@@ -1,1 +1,1 @@
-[{"global_step": 180, "train_loss": 1.516479221607248, "val_loss": 1.3754898309707642, "val_bleu_score": 0.14088398218154907}]
+[{"global_step": 180, "train_loss": 1.393933381119536, "val_loss": 1.316736102104187, "val_bleu_score": 0.3050847351551056}]
